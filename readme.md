@@ -19,10 +19,6 @@ Este gerador de senhas oferece uma forma prática e rápida para criar senhas se
 - **CSS3**
 - **JavaScript (ES6+)**
 
-## 🎨 Interface
-
-A interface foi desenhada com um layout clean, de fácil navegação, garantindo que qualquer pessoa possa usar o gerador de senhas sem complicações.
-
 ## 📦 Deploy
 
 Você pode testar o gerador de senhas clicando no link abaixo:
